@@ -1,0 +1,6 @@
+Version Check:
+ Current: 6.07
+ Latest: 6.18
+
+
+Hit CTRL+C to visit the GAM website and download the latest release or wait 15 seconds continue with this boring old version. GAM won't bother you with this  announcement for 1 week or you can create a file named noupdatecheck.txt in the same location as gam.py or gam.exe and GAM won't ever check for updates.
