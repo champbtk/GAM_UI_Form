@@ -9,3 +9,14 @@ C:\Users\ssatiarujikano\source\repos\GAM\obj\Debug\GAM.csproj.CoreCompileInputs.
 C:\Users\ssatiarujikano\source\repos\GAM\obj\Debug\GAM.exe
 C:\Users\ssatiarujikano\source\repos\GAM\obj\Debug\GAM.pdb
 C:\Users\ssatiarujikano\source\repos\GAM\obj\Debug\GAM.Form1.resources
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\bin\Debug\GAM.exe.config
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\bin\Debug\GAM.exe
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\bin\Debug\GAM.pdb
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.csproj.AssemblyReference.cache
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.Form1.resources
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.Properties.Resources.resources
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.csproj.GenerateResource.cache
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.csproj.CoreCompileInputs.cache
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.exe
+C:\Users\ssatiarujikano\source\repos\GAM_UI_Form\obj\Debug\GAM.pdb
